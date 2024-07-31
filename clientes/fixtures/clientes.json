@@ -3,40 +3,48 @@
         "model": "clientes.cliente",
         "pk": 1,
         "fields": {
-            "nome":"Leonardo",
-            "email":"leo@alura.com"
+            "nome":"Pantufa",
+            "email":"pantufa@email.com"
         } 
     },
     {
         "model": "clientes.cliente",
         "pk": 2,
         "fields": {
-            "nome":"Juliana",
-            "email":"juliana@alura.com"
+            "nome":"kelly",
+            "email":"kelly@email.com"
         } 
     },
     {
         "model": "clientes.cliente",
         "pk": 3,
         "fields": {
-            "nome":"Ana",
-            "email":"ana@alura.com"
+            "nome":"Gabriel",
+            "email":"gabriel@email.com"
         } 
     },
     {
         "model": "clientes.cliente",
         "pk": 4,
         "fields": {
-            "nome":"Andre",
-            "email":"andre@alura.com"
+            "nome":"Herbert",
+            "email":"herbert@email.com"
         } 
     },
     {
         "model": "clientes.cliente",
         "pk": 5,
         "fields": {
-            "nome":"Guilherme",
-            "email":"guilherme@alura.com"
+            "nome":"Leonan",
+            "email":"leonan@email.com"
+        } 
+    },
+    {
+        "model": "clientes.cliente",
+        "pk": 1,
+        "fields": {
+            "nome":"Icaro",
+            "email":"icaro@email.com"
         } 
     }
 ]
